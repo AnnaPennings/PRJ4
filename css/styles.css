@@ -8,7 +8,7 @@
 body {
 	font-family: Lato, Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', 'monospace'Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #2D2D80;
-	background-color: #f8f8fc;
+	background-color: #FEE7FF;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -18,7 +18,7 @@ body {
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #FEE7FF;
 }
 
 .resume-aside {
